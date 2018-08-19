@@ -21,3 +21,5 @@ Series of random numbers.
 highest value occurred.
 
 # Note
+1. Please refer Screenshot directory for output of Screenshot 
+2. Please refer Sourcecode directory for Pyhton Sourcecode file
